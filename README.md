@@ -9,6 +9,6 @@
 ### Eğer bot ile ilgili bir sorununuz olursa aşağıdaki tuş yardımıyla bize ulaşabilirsiniz.
 
 <p align="center">
-  <a href="https://https://discord.gg/qvbQ9MWmrZ"><img src="https://img.shields.io/badge/Desiré%20%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https:///discord.gg/qvbQ9MWmrZ"><img src="https://img.shields.io/badge/Desiré%20%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://discord.com/users/681250871119446025"><img src="https://img.shields.io/badge/Shréwd%20%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
