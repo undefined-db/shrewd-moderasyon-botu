@@ -1,10 +1,10 @@
 {
-  "name": "shrewd",
+  "name": "undefined",
   "version": "0.0.1",
-  "description": "V12 Shréwd Moderasyon",
-  "main": "shrewd.js",
+  "description": "V12 undefined Moderasyon",
+  "main": "undefined.js",
   "scripts": {
-    "start": "node shrewd.js"
+    "start": "node undefined.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",
