@@ -1,10 +1,10 @@
 ────────────────•● **ÇALMA LEN** ●•─────────────────
 
-👑 **BU ALTYAPI SHRÉWD TARAFINDAN YAPILMIŞTIR ÇALINMASI YASAKTIR!**
+👑 **BU ALTYAPI UNDEFİED TARAFINDAN YAPILMIŞTIR ÇALINMASI YASAKTIR!**
 
-`Yapımcılar ->` **_Shréwd Desiré#3846_**
+`Yapımcılar ->` **undefined Desiré#3846_**
 
-`Botun Main Dosyası ->` **_shrewd.js_**
+`Botun Main Dosyası ->` **_undefined.js_**
 
 🤖 **Discord Sunucumuza Gelmeyi Unutma!**
 [Tıkla](https://discord.gg/qvbQ9MWmrZ)
